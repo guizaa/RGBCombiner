@@ -1,8 +1,7 @@
 # RGBCombiner
 by guiza
-#------------
 # About
-RGBCombiner is a simple and efficient tool that Takes 3 one-channel images 
+RGBCombiner is a simple and efficient tool that takes 3 one-channel images 
 corresponding to red, green, and blue channels and combines them into one RGB 
 image. Very useful when combining filtered astronomical images into a color 
 image. This script was created using the CImg library (https://cimg.eu)

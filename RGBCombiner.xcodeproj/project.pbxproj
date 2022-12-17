@@ -30,6 +30,7 @@
 		DEBB180A2943E67600F55032 /* CImg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CImg.h; sourceTree = "<group>"; };
 		DEBB180B2943E67600F55032 /* blue-f.ppm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "blue-f.ppm"; sourceTree = "<group>"; };
 		DEBB180C2943E67600F55032 /* rgb_result.bmp */ = {isa = PBXFileReference; lastKnownFileType = image.bmp; path = rgb_result.bmp; sourceTree = "<group>"; };
+		DEBB180E2943E6E000F55032 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 		DEBB17FF2943E65A00F55032 /* RGBCombiner */ = {
 			isa = PBXGroup;
 			children = (
+				DEBB180E2943E6E000F55032 /* README.md */,
 				DEBB180B2943E67600F55032 /* blue-f.ppm */,
 				DEBB180A2943E67600F55032 /* CImg.h */,
 				DEBB18072943E67600F55032 /* green-f.ppm */,
