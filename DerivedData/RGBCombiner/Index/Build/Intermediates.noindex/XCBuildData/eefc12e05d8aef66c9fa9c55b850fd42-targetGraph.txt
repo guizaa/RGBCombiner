@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-RGBCombiner in RGBCombiner, no dependencies
